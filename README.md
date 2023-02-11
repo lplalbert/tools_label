@@ -6,7 +6,7 @@
 
 ## run.py
 
-输入原classes.txt和目标classes.txt，将原classes.txt中的标注名称按行对应的改为目标classes.txt中的标注名称
+输入原classes.txt和目标classes.txt，将原classes.txt中的标注名称按行对应改为目标classes.txt中的标注名称
 
 ## yaml_builder.py
 按照目标classes.txt生成新的classes.txt
